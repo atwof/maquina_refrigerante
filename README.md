@@ -1,4 +1,4 @@
-<b>MÁQUINA DE REFRIGERANTE</b>
+<h1><b>MÁQUINA DE REFRIGERANTE</b></h1>
 
 <b>ITENS</b>
 - Serve três sabores
